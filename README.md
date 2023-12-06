@@ -19,8 +19,7 @@
   <!-- Links -->
   ---
   <div>
-    <a href="https://git.zakscode.com/ztimson/konsole/wiki" target="_blank">Documentation</a>
-    • <a href="https://git.zakscode.com/ztimson/konsole/releases" target="_blank">Release Notes</a>
+    <a href="https://git.zakscode.com/ztimson/konsole/releases" target="_blank">Release Notes</a>
     • <a href="https://git.zakscode.com/ztimson/konsole/issues/new?template=.github%2fissue_template%2fbug.md" target="_blank">Report a Bug</a>
     • <a href="https://git.zakscode.com/ztimson/konsole/issues/new?template=.github%2fissue_template%2fenhancement.md" target="_blank">Request a Feature</a>
   </div>
@@ -31,8 +30,8 @@
 ## Table of Contents
 - [Konsole](#top)
   - [About](#about)
+    - [Demo](#demo)
     - [Built With](#built-with)
-  - [Demo](#demo)
   - [Setup](#setup)
     - [Development](#development)
   - [License](#license)
@@ -58,13 +57,13 @@ window.cli['echo'] = {
 
 Everything is written in vanilla JS so it can be easily ported.
 
+### Demo
+
+Download & open [index.html](./index.html)
+
 ### Built With
 [![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)](https://javascript.com/)
-
-# Demo
-
-Download & open [index.html](./index.html)
 
 ## Setup
 
